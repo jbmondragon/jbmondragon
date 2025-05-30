@@ -32,7 +32,6 @@
 
 ### 🧪 Projects & Learning
 
-- 🎯 **Current Project**: Building a web-based Hospital Appointment System
 - 📊 **Learning Focus**: Data science fundamentals using **R**, and web styling with **HTML & CSS**
 - 🧠 **Next Goals**: Dive into API development, and contribute to open-source projects
 
