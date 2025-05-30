@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=jbmondragon&label=Profile%20views&color=0e75b6&style=flat" alt="jbmondragon" /> </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello,+I'm+Jake+Mondragon!;Aspiring+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello,+I'm+Jake+Mondragon!;BSCS+Student" alt="Typing SVG" />
 </h1>
 
 <div align="center">
