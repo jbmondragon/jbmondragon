@@ -21,15 +21,6 @@ Learning: **R**, **HTML**, **CSS**, and modern software practices
 
 ---
 
-### GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jbmondragon&show_icons=true&theme=default&hide_title=true&hide_rank=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbmondragon&layout=compact&hide_title=true" alt="Top Languages" />
-</p>
-
----
-
 ### Projects & Learning
 
 - **Learning Focus**: Data science fundamentals using **R**, and web styling with **HTML & CSS**
