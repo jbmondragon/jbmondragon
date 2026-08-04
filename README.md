@@ -94,11 +94,6 @@
 - Automated recurring weekly and monthly reports in Excel and PDF, reducing manual entry time
 - Built dashboards translating validated data into clear visual reports for non-technical stakeholders
 
-**Logistics Head Officer — Alpha Phi Omega Theta Zeta Chapter** *(Present)*
-- Maintained accurate inventory records in Excel, cross-checking physical counts against logged data
-- Managed team tasks and project tracking using Trello
-- Created procurement and budget reports to support purchasing decisions and financial planning
-
 ---
 
 ### Certifications
