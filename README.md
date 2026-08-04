@@ -4,27 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello,+I'm+Jake+Mondragon!;BSCS+Student" alt="Typing SVG" />
 </h1>
 
-<div align="center">
-
-Passionate about building impactful software <br/>
-Based in the Philippines & focused on backend development and data science <br/>
-Currently developing a **Hospital Appointment System** <br/>
-Learning: **R**, **HTML**, **CSS**, and modern software practices
-
-</div>
-
 ---
 
 ### Technical Skills
 
 <p align="center"> <!-- Programming Languages --> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>&nbsp; <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>&nbsp; <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> </p> <p align="center"> <!-- Web Technologies --> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>&nbsp; <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>&nbsp; <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> </p>
-
----
-
-### Projects & Learning
-
-- **Learning Focus**: Data science fundamentals using **R**, and web styling with **HTML & CSS**
-- **Next Goals**: Dive into API development, and contribute to open-source projects
 
 ---
 
