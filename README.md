@@ -79,9 +79,6 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>&nbsp;
-  <a href="https://trello.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original-wordmark.svg" alt="Trello" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -108,15 +105,6 @@
 - Contributed to Region VIII AI Road Mapping (2026)
 - Certificate of Completion for 200-Hour Data Analyst Internship (2026)
 - Data Labeling Job Simulation
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jbmondragon&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Jake's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbmondragon&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
 
 ---
 
